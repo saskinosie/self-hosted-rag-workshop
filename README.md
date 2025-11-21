@@ -6,7 +6,7 @@ A hands-on workshop for learning Weaviate vector database fundamentals using loc
 
 This workshop teaches core Weaviate concepts through interactive Jupyter notebooks:
 
-- **Lesson 1**: Introduction to Weaviate - data loading and basic queries 
+- **Lesson 1**: Introduction to Weaviate - data loading and basic queries [Watch the video here](https://drive.google.com/file/d/19_ExfKcFTEp6m1GG9DgvFu7NDueJVMXa/view?usp=sharing)
 - **Lesson 2**: Working with pre-vectorized data and Wikipedia imports
 - **Lesson 3**: Retrieval Augmented Generation (RAG) patterns
 - **Lesson 4**: Multi-tenancy and data isolation
